@@ -1,59 +1,48 @@
-# 👋 Salut, moi c'est Naole.
-
-🎯 **étudiant**  
-📍 **Localisation : France (77)**  
-💡 Passionné par **Dev-web, IA**  
-
----
-
-## 🚀 À propos de moi  
-
-J'ai 17 ans, je fait un bac techno STI2D pour ensuite préparer un master of ingenering en Cyber à SupInfo. J'ai ddévelopper le site de trajectair (lien plus bas) pour ma Terminale (projet scolaire).
-
----
-
-## 🔧 Compétences  
-
-Voici un aperçu des technologies et outils que j’utilise régulièrement :  
-
-- 💻 **Langages** : python, html/css 
-- 🛠️ **Outils & DevOps** : Git, Terminus, VSC
+```python
+pseudo = "Naole"
+profession = "étudiant"
+localisation = "France (77)"
+connaissances = ["Développement web", "Gestion de projet", "pyhton"]
+hobbies = ["Tech", "Jeux-vidéos", "Musique"]
 
 
----
-
-## 📌 Projets en vedette  
-
-🔹 **[Trajectair](https://github.com/TrajectAir)** – Boitier d'analyse de la qualité de l'air couplé à une carte pour consulter les données récoltées.
-
-
----
-
-## 📫 Me contacter  
-
-Tu peux me retrouver ici :  
-
-- 📧 **Email** : eloan.delbroeuve@trajectair.com] ; naolesolo@gmail.com
-- 💼 **LinkedIn** : [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)  
-- 🐦 **Twitter/X** : [@Naole77](https://twitter.com/naole77)  
-- 🌍 **web** : [trajectair.com](https://www.trajectair.com)  
+def presentation():
+    print(f"👋 Salut, moi c'est (pseudo).")
+    print(f"💼 Profession : {profession}.")
+    print(f"📍 Localisation : {localisation}.")
+    print("🎯 connaissances :")
+    for domaine in domaines_d_expertise:
+        print(f"   - {domaine}")
+    print("🌱 Centres d'intérêt :")
+    for hobby in hobbies:
+        print(f"   - {hobby}")
 
 
----
+valeurs = [
+    "📌 atteindre mes objectifs",
+    "🤝 Partager la connaissance",
+    "🚀 travailler ensemble",
+    "💡 discuter en groupe"
+]
 
+def afficher_valeurs():
+    print("\n🔹 Valeurs :")
+    for valeur in valeurs:
+        print(f"   - {valeur}")
 
+contacts = {
+    "GitHub": "https://github.com/N4ole",
+    "X": "https://x.com/Naole77",
+    "Site projet": "https://www.trajectair.com"
+}
 
-<!--
-**N4ole/N4ole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+def afficher_contacts():
+    print("\n📬 Me retrouver sur :")
+    for plateforme, lien in contacts.items():
+        print(f"   - {plateforme} : {lien}")
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == "__main__":
+    presentation()
+    afficher_valeurs()
+    afficher_contacts()
+```
