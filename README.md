@@ -14,3 +14,6 @@ Je suis un étudiant en terminale. J’apprends en bidouillant.
 
 ---
 
+## #30NitesOfCode:
+  ![@N4ole #30NitesOfCode](https://www.codedex.io/api/petStatus?user=N4ole)
+
