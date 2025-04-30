@@ -4,8 +4,7 @@ Je suis un étudiant en terminale. J’apprends en bidouillant.
 
 ### Ce que je fais en ce moment :
 - Cofondateur du projet **Trajectaire** : un boîtier embarqué qui analyse la qualité de l’air sur un trajet et la visualise sur une carte.
-- Développement d’outils en **Python**.
-- création de **bots Discord**.
+- création du bot discord **Nebulon**.
 - Conception de sites web statiques.
 
 
