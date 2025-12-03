@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je suis un jeune étudiant en informatique en tout juste diplômé d'un Baccalauréat technologique. Je suis actuellement une formation de 5 ans au bout de laquelle je devrais obtenir un master of ingeniering.
+Je suis un jeune étudiant en informatique tout juste diplômé d'un Baccalauréat technologique. Je suis actuellement une formation de 5 ans au bout de laquelle je devrais obtenir un master of ingeniering.
 <br>
 <br>
 Je m'intéresse à la programmation depuis environ 3 ans et j'ai participé à un projet étudiant nommé Trajectair, plus d'infos sur ce liens : https://www.trajectair.com .
