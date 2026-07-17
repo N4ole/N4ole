@@ -6,7 +6,6 @@ Je m'intéresse à la programmation depuis environ 3 ans et j'ai participé à u
 <br>
 <br>
 <br>
-je suis en train de travailler sur un porte folio web afin de mettre en avant mes capacités de développeur.
 
 
 ## 🌐 Socials:
